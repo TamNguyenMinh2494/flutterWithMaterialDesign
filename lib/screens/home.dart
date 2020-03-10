@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:fluttermaterial/provider/user_provider.dart';
-import 'package:fluttermaterial/screens/product_details.dart';
 import 'package:fluttermaterial/widgets/custom_app_bar.dart';
 import 'package:fluttermaterial/widgets/product_card.dart';
 import 'package:fluttermaterial/widgets/featured_products.dart';
