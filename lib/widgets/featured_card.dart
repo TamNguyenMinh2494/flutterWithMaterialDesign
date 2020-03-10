@@ -30,7 +30,7 @@ class FeaturedCard extends StatelessWidget {
             child: Stack(
               children: <Widget>[
                 Image.asset(
-                  "images/m2.jpg",
+                  "images/besa.jpg",
                   height: 220,
                   width: 200,
                   fit: BoxFit.cover,
